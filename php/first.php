@@ -5,7 +5,7 @@
         <meta name="Descritption" content="Php IDK">
         <meta name="Keywords" content="Php, Send">
         <meta name="Author" content="Dinal De Silva">
-        <title>Booking Confirmation”</title>
+        <title>Booking Confirmation</title>
     </head>
     
     <body>
