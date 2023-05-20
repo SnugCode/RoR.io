@@ -32,11 +32,11 @@
             
               </a>
             
-              <a href="index.html"><button class="menu">Home</button></a>
+              <a href="index.php"><button class="menu">Home</button></a>
             
-              <a href="topic.html"><button class="menu">About Ruby</button></a>
+              <a href="topic.php"><button class="menu">About Ruby</button></a>
             
-              <a href="quiz.html"><button class="menu">Quiz</button></a>
+              <a href="quiz.php"><button class="menu">Quiz</button></a>
 
               <a href="enhancement.html"><button class="menu">Enhancements</button></a>
             
